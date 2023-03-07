@@ -11,13 +11,13 @@ It should be like this: `/wp-content/plugins/portfolio-gallery/`.
 Additionally, you need to install a plugin [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/) and create the following fields:    
 :small_orange_diamond:`gallery` (with field type Gallery)    
 
-Under the admin panel Portfolio Gallery you need to create a gallery.    
+Under the admin panel Portfolio Gallery you need to create a gallery.        
 ![Screenshort](/img/screen1.png)    
 
-Create Page or Post and insert the shortcode at the desired location on the page    
+Create Page or Post and insert the shortcode at the desired location on the page.        
 ![Screenshort](/img/screen2.png)    
 
-To display the text blocks of the gallery you need to fill in the picture attributes    
+To display the text blocks of the gallery you need to fill in the picture attributes.           
 ![Screenshort](/img/screen3.png)    
 
 Insert the shortcode    
