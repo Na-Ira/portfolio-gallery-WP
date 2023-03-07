@@ -33,4 +33,4 @@ For .php:
       <?php echo do_shortcode("[portfolio-gallery]") ?>
 ```
 
-[View Form](https://folio-ira.nastmobile.com/contact-form/)
+[View Form](https://folio-ira.nastmobile.com/portfolio-gallery/)
