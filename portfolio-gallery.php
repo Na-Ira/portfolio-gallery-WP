@@ -13,7 +13,6 @@
   * Initializing plugin
   */
   add_action('plugins_loaded', 'portfolio_gallery_plugin');
-
   function portfolio_gallery_plugin() {
       require_once plugin_dir_path( __FILE__ ) . 'functions.php';
   }
@@ -22,12 +21,10 @@
   *  plugin's Shortcode
   */
  add_shortcode("portfolio-gallery", "portfolio_gallery_activation");
-
  /**
   * Activation plugin
   */
  register_activation_hook( __FILE__, 'portfolio_gallery_activation' );
- 
  function portfolio_gallery_activation() {
 
    // Start buffer
